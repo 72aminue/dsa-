@@ -20,4 +20,14 @@ public class singleDimensionArray {
             System.out.println("Invalid Index to access array");
         }
     }
+    public void traverseArray(){
+        try {
+            for (i == 0; i < arr.length; i++) {
+                System.out.println(arr[i] + " ");
+
+            }
+        }catch (Exception e){
+            System.out.println("Array no longer available");
+        }
+    }
 }
