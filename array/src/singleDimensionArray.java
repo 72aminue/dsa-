@@ -22,12 +22,29 @@ public class singleDimensionArray {
     }
     public void traverseArray(){
         try {
-            for (i == 0; i < arr.length; i++) {
+            for (int i = 0; i < arr.length; i++) {
                 System.out.println(arr[i] + " ");
 
             }
         }catch (Exception e){
             System.out.println("Array no longer available");
+        }
+    }
+    public void searchinArray(int valueToSearch){
+        for(int i=0; i<arr.length;i++){
+            if(arr[i]==valueToSearch){
+                System.out.println("Value is found at the index: "+i);
+                return; // to stop the loop
+            }
+        }
+        System.out.println(valueToSearch+ " hasn't been found");
+    }
+
+    public void deleteValue(int indexValueToDelete){
+        try{
+            arr[indexValueToDelete]=Integer.MIN_VALUE;
+        }catch(ArrayIndexOutOfBoundsException e){
+            System.out.println("The index you have provided is out of the array");
         }
     }
 }
