@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack/StackWithArray/StackWithArray.iml" filepath="$PROJECT_DIR$/Stack/StackWithArray/StackWithArray.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stack/StackWithLinkedList/StackWithLinkedList.iml" filepath="$PROJECT_DIR$/Stack/StackWithLinkedList/StackWithLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/QueueWithLinkedList/QueueWithLinkedList.iml" filepath="$PROJECT_DIR$/StackAndQueue/QueueWithLinkedList/QueueWithLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/QueuewithArray/QueuewithArray.iml" filepath="$PROJECT_DIR$/StackAndQueue/QueuewithArray/QueuewithArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackAndQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackWithArray/StackWithArray.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackWithArray/StackWithArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAndQueue/StackWithLinkedList/StackWithLinkedList.iml" filepath="$PROJECT_DIR$/StackAndQueue/StackWithLinkedList/StackWithLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/doublyLinkedList/doublyLinkedList.iml" filepath="$PROJECT_DIR$/linkedList/doublyLinkedList/doublyLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dsa-.iml" filepath="$PROJECT_DIR$/.idea/dsa-.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
